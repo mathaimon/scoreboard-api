@@ -1,0 +1,4 @@
+.vercel
+.pylintrc
+Pipfile
+Pipfile.lock
